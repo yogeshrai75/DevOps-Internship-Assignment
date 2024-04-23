@@ -15,8 +15,7 @@ Python 3
 Update Configuration:
 Replace "/path/to/your/logfile.log" in the script with the actual path to your log file.
 Modify the keywords list in the script to include the specific keywords or error codes you want to track (e.g., "error", "warning", "404").
-Save the Script:
-Save the script as a .py file (e.g., log_monitor.py).
+Save the Script.
 Run the Script:
 Open a terminal and navigate to the directory where you saved the script.
 
